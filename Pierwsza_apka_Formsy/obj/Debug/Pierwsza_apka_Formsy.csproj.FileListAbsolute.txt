@@ -1,0 +1,74 @@
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy.exe.config
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy.exe
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy.pdb
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.csprojAssemblyReference.cache
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.Properties.Resources.resources
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.csproj.GenerateResource.cache
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.exe
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.pdb
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy.mdf
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy_log.ldf
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.frmMain.resources
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_FormsyDataSet.Designer.cs
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_FormsyDataSet.xsc
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_FormsyDataSet.xsd
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_FormsyDataSet.xss
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_FormsyDataSet.Designer.cs
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_FormsyDataSet.xsc
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_FormsyDataSet.xsd
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_FormsyDataSet.xss
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy.mdf
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy_log.ldf
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy.exe.config
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy.exe
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy.pdb
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.csprojAssemblyReference.cache
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.frmMain.resources
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.Properties.Resources.resources
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.csproj.GenerateResource.cache
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.exe
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.pdb
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.Form1.resources
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Gauge1.g.cs
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy_Content.g.cs
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy_MarkupCompile.cache
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy_MarkupCompile.lref
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Gauge1.baml
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.g.resources
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Gauge2.g.cs
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Gauge2.baml
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia1\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.Form2.resources
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_FormsyDataSet.Designer.cs
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_FormsyDataSet.xsc
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_FormsyDataSet.xsd
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_FormsyDataSet.xss
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy.mdf
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy_log.ldf
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy.exe.config
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy.exe
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\bin\Debug\Pierwsza_apka_Formsy.pdb
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.csprojAssemblyReference.cache
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Gauge1.g.cs
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Gauge2.g.cs
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy_Content.g.cs
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy_MarkupCompile.cache
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy_MarkupCompile.lref
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Gauge1.baml
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Gauge2.baml
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.g.resources
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.Form1.resources
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.Form2.resources
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.frmMain.resources
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.Properties.Resources.resources
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.csproj.GenerateResource.cache
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.exe
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.pdb
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\bin\Debug\LOGI.mdf
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\bin\Debug\LOGI_log.ldf
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.MainPage.resources
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Pierwsza_apka_Formsy.Plots.resources
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Gauge3.g.cs
+C:\Users\marci\source\repos\Pierwsza_apka_Formsy — kopia2\Pierwsza_apka_Formsy\obj\Debug\Gauge3.baml
